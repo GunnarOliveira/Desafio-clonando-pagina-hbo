@@ -67,7 +67,7 @@
 /*fim header*/
 
 .subscription {
-  background: url("/assets/images/background-movies-series.png");
+  background: url("../assets/images/background-movies-series.png");
   background-size: cover;
   padding: 2rem;
 }
